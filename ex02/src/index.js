@@ -1,0 +1,10 @@
+function main(){
+   myRes=75;
+
+   myRes++;
+
+   return myRes;
+}
+
+console.log(main());
+module.exports=main;
